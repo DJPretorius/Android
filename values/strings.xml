@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Playing_Game">Yeah this is awesome \nCheck this new line</string>
+    <string name="Play">PLAY</string>
+</resources>
